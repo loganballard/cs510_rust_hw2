@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 toy_rsa_lib = { git = "http://github.com/pdx-cs-rust/toy-rsa-lib" }
+rand = "0.3"
