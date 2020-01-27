@@ -1,4 +1,4 @@
-use toy_rsa::rsa_library::{decrypt, encrypt};
+use toy_rsa::{decrypt, encrypt};
 
 fn main() {
     let msg: u32 = 12345;

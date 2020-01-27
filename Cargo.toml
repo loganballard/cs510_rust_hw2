@@ -1,5 +1,5 @@
 [package]
-name = "toy-rsa"
+name = "toy_rsa"
 version = "0.1.0"
 authors = ["loganballard <loganballard@gmail.com>"]
 edition = "2018"
